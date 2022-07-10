@@ -1,0 +1,31 @@
+.Add{
+    margin-left: 60%;
+    width:70px;
+    height:40px;
+    background-color:green;
+    border-radius:5px;
+    border-color: white;
+}
+#Delete{
+    margin-left: 2%;
+    width:70px;
+    height:40px;
+    background-color:rgb(243, 18, 18);
+    border-radius:5px;
+    border-color: white;
+}
+#aa{
+    margin-left: 62%;
+}
+#bb{
+    margin-left: 61%;
+}
+#cc{
+    margin-left: 61%;
+}
+#dd{
+    margin-left: 60%;
+}
+#ee{
+    margin-left: 62%;
+}
